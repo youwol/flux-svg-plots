@@ -18,21 +18,22 @@
     "publish-npm-public": "yarn build:prod && yarn test-coverage && yarn publish --access public"
   },
   "peerDependencies": {
-    "d3-zoom":"1.8.3",
     "rxjs": "6.5.3",
-    "d3-scale":"3.2.1",
-    "d3-selection": "1.4.1",
-    "d3-drag": "1.2.5",
-    "d3-dispatch": "1.0.6"
+    "lodash":"4.17.15",
+    "d3-zoom":"^3.0.0",
+    "d3-scale":"4.0.2",
+    "d3-selection": "^3.0.0",
+    "d3-drag": "^3.0.0",
+    "d3-dispatch": "^3.0.1"
   },
   "dependencies": {
   },
   "devDependencies": {
-    "d3-zoom":"1.8.3",
-    "d3-scale":"3.2.1",
-    "d3-selection": "1.4.1",
-    "d3-drag": "1.2.5",
-    "d3-dispatch": "1.0.6",
+    "d3-zoom":"^3.0.0",
+    "d3-scale":"4.0.2",
+    "d3-selection": "^3.0.0",
+    "d3-drag": "^3.0.0",
+    "d3-dispatch": "^3.0.1",
     "lodash":"4.17.15",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.1.0",
