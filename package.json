@@ -1,6 +1,6 @@
 {
   "name": "@youwol/flux-svg-plots",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author":"greinisch@youwol.com",
   "description":"Plotting library above d3.js to facilitate drawing workflows",
